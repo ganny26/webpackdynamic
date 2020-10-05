@@ -1,1 +1,2 @@
-console.log('script1 loaded');
+const names = ['apple','orange','pomogranate','bannana','pineapple];
+               
